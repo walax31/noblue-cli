@@ -1,0 +1,15 @@
+export const commandList = [
+  "help",
+  "whoami",
+  "about",
+  "experience",
+  "skills",
+  "projects",
+  "contact",
+  "availability",
+  "location",
+  "joke",
+  "hire",
+  "sudo",
+  "clear",
+];
