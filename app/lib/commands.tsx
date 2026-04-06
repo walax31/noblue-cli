@@ -253,11 +253,11 @@ export const commands: Record<string, CommandFn> = {
       {section("github")}
 
       <a
-        href="https://github.com/walax31/noblue-portfolio"
+        href="https://github.com/walax31/noblue-cli"
         target="_blank"
         className="text-yellow-300 underline"
       >
-        github.com/walax31/noblue-portfolio
+        github.com/walax31/noblue-cli
       </a>
 
       <div className="text-gray-500 mt-1">open source project</div>
