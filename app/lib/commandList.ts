@@ -10,6 +10,6 @@ export const commandList = [
   "location",
   "joke",
   "hire",
-  "sudo",
+  "github",
   "clear",
 ];

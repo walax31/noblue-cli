@@ -218,4 +218,21 @@ export const commands: Record<string, CommandFn> = {
       </div>
     </div>
   ),
+  github: () => (
+  <div>
+    {section("github")}
+
+    <a
+      href="https://github.com/walax31/noblue-portfolio"
+      target="_blank"
+      className="text-yellow-300 underline"
+    >
+      github.com/walax31/noblue-portfolio
+    </a>
+
+    <div className="text-gray-500 mt-1">
+      open source project
+    </div>
+  </div>
+),
 };
